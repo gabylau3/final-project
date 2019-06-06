@@ -1,5 +1,9 @@
 #include "quiz.h"
+#include "quizmain.c"
 #include <stdio.h>
 #include <string.h>
 
-printf("Score: %d \n", score);
+int score;
+
+
+printf("Score: %d\n", score);
